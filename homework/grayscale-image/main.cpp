@@ -1,3 +1,4 @@
+#include "grayscale.hpp"
 #include <array>
 #include <forward_list>
 
