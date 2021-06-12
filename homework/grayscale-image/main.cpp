@@ -1,4 +1,4 @@
-#include "grayscale.hpp"
+#include "compression.hpp"
 #include <array>
 #include <forward_list>
 
