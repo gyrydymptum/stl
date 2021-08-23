@@ -2,7 +2,6 @@
 #include <forward_list>
 #include "compression.hpp"
 
-
 int main() {
     
 pairUint vec;
@@ -12,4 +11,3 @@ vec=compressGrayscale(test);
 decompressGrayscale(vec);
     
   return 0;
-}
